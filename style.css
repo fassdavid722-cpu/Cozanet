@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0b0b0b;
+  color: #e6e6e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  background: #111;
+  padding: 40px;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 420px;
+}
+
+h1 {
+  font-size: 20px;
+  letter-spacing: 2px;
+  color: #d4af37;
+}
+
+.points {
+  font-size: 28px;
+  margin: 20px 0;
+  font-weight: bold;
+}
+
+.label {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+button {
+  margin-top: 20px;
+  padding: 12px 24px;
+  background: #d4af37;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.note {
+  margin-top: 20px;
+  font-size: 11px;
+  opacity: 0.5;
+  }
